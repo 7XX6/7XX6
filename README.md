@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @7XX6 :D
+- 👀 I’m interested in Game Hacking, Loggers ( Trojans) and exploiting bugs in systems.
+- 🌱 I’m currently learnining: Python and C++
